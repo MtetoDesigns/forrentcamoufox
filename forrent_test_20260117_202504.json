@@ -1,0 +1,5762 @@
+[
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "235 W 48th St, New York, NY 10036 Unit FL19-ID142",
+    "Price": "$4,460",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(833) 580-1517"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "2128 Newtown Ave, Astoria, NY 11102 Unit Apt 2",
+    "Price": "$3,100",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 730-5628"
+  },
+  {
+    "rental_type": "The Riverdale Tower",
+    "address": "3745 Riverdale Ave, The Bronx, NY 10463",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 465-7800"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "111 E 89th St, New York, NY 10128",
+    "Price": "$3,750 - $8,500",
+    "rental_size": "1 - 3 BEDS",
+    "Bath_size": "1 - 2 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "602 Lexington Ave, Brooklyn, NY 11221 Unit Apartment 2",
+    "Price": "$4,000",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Halletts Point",
+    "address": "10, 20, 30 Halletts Pt, Astoria, NY 11102",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 302-3012"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "10 Downing St, New York, NY 10014 Unit FL2-ID131",
+    "Price": "$7,340",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(551) 261-7287"
+  },
+  {
+    "rental_type": "The Station Apartments",
+    "address": "5959 Broadway, Bronx, NY 10463",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(914) 826-8579"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "319 W 13th St, New York, NY 10014",
+    "Price": "$5,100 - $8,000",
+    "rental_size": "1 - 2 BEDS",
+    "Bath_size": "1 - 2 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "420 E 64th St, New York, NY 10065 Unit W7H",
+    "Price": "$12,750",
+    "rental_size": "3 BEDS",
+    "Bath_size": "3.5 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "The Equestrian At Pelham Parkway",
+    "address": "1680 Pelham Pkwy S, Bronx, NY 10461",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(914) 677-1117"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "70 Middagh St, Brooklyn, NY 11201 Unit FL2-ID1962",
+    "Price": "$4,960",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 470-2586"
+  },
+  {
+    "rental_type": "FOUND Study Brooklyn Heights",
+    "address": "97 Columbia Heights, Brooklyn, NY 11201",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 205-5730"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "160 2nd Ave, New York, NY 10003",
+    "Price": "$6,000 - $7,000",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 - 2 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "150 West 51st Street, New York, NY 10019 Unit 1402",
+    "Price": "$4,100",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "The Reserve",
+    "address": "215 E 124th St, New York, NY 10035",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 295-7826"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "141 E 33rd St, New York, NY 10016 Unit FL5-ID4",
+    "Price": "$6,330",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(844) 670-6407"
+  },
+  {
+    "rental_type": "15002 Hillside Ave",
+    "address": "15002 Hillside Ave, Jamaica, NY 11432",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "250 3rd Ave, New York, NY 10010 Unit 2",
+    "Price": "$3,400",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "472 Myrtle Ave, Brooklyn, NY 11205 Unit RETAIL",
+    "Price": "$6,500",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "10 Hanover Square",
+    "address": "10 Hanover Sq, New York, NY 10005",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 304-7025"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "108 W 15th St, New York, NY 10011 Unit FL3-ID31",
+    "Price": "$5,670",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 479-4790"
+  },
+  {
+    "rental_type": "National at 888 6th Ave Furnished Apartments",
+    "address": "888 6th Ave, New York, NY 10001",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 205-8703"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "20 Maiden Ln, New York, NY 10038 Unit 17",
+    "Price": "$8,695",
+    "rental_size": "5 BEDS",
+    "Bath_size": "2.5 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "31-19 37th Ave, Long Island City, NY 11101 Unit 3B",
+    "Price": "$4,650",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "95 Wall",
+    "address": "95 Wall St, New York, NY 10005",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(862) 280-2844"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "141 E 33rd St, New York, NY 10016 Unit FL16-ID43",
+    "Price": "$6,020",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1.5 BATHS",
+    "contact": "(855) 526-6751"
+  },
+  {
+    "rental_type": "Urbn Edge",
+    "address": "3510 Union St, Flushing, NY 11354",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(844) 697-0907"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "556 W 165th St, New York, NY 10032 Unit 1",
+    "Price": "$2,500",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "231 W 256th St, Bronx, NY 10471 Unit Floor1",
+    "Price": "$2,300",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Battery Park by Sunrise",
+    "address": "455 North End Ave, New York, NY 10282",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(310) 734-0000"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "53 Park Pl, New York, NY 10007 Unit FL3-ID53",
+    "Price": "$4,610",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(855) 528-9504"
+  },
+  {
+    "rental_type": "2478 Arthur Ave, Bronx, NY 10458",
+    "address": "2478 Arthur Ave, Bronx, NY 10458",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 460-8509"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "7 Bleecker St, New York, NY 10012 Unit 2B",
+    "Price": "$4,350",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "122 67th Street, Brooklyn, NY 11220 Unit Ground Floor",
+    "Price": "$3,000",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "21 Chelsea",
+    "address": "120 W 21st St, New York, NY 10011",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 205-0887"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "53 Park Pl, New York, NY 10007 Unit FL10-ID54",
+    "Price": "$6,240",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(551) 227-2189"
+  },
+  {
+    "rental_type": "Shared/Private Rooms in Modern Co-Living Apt",
+    "address": "587-599 Central Ave, Brooklyn, NY 11207",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 552-1808"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "206 E 16th St, New York, NY 10003",
+    "Price": "$6,100 - $14,000",
+    "rental_size": "2 - 4 BEDS",
+    "Bath_size": "1 - 4 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "130 Water St, New York, NY 10005 Unit 9C",
+    "Price": "$3,700",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(646) 362-9337"
+  },
+  {
+    "rental_type": "Battery Park by Sunrise",
+    "address": "455 North End Ave, New York, NY 10282",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(310) 734-0000"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "50 Murray St, New York, NY 10007 Unit FL17-ID51",
+    "Price": "$6,520",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(551) 205-9150"
+  },
+  {
+    "rental_type": "195 Stanton",
+    "address": "195 Stanton St, New York, NY 10002",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(718) 704-8813"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "112 W 13th St, New York, NY 10011",
+    "Price": "$4,700 - $5,300",
+    "rental_size": "STUDIO - 1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "6030 78th Ave, Glendale, NY 11385 Unit 1FL",
+    "Price": "$3,900",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2.5 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "The Rocklyn",
+    "address": "20 Rockwell Pl, Brooklyn, NY 11201",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 416-3497"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "105 Duane St, New York, NY 10007 Unit FL25-ID75",
+    "Price": "$7,040",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(646) 729-2927"
+  },
+  {
+    "rental_type": "165-175 Sherman Ave, New York, NY 10034",
+    "address": "165-175 Sherman Ave, New York, NY 10034",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(718) 601-1483"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "140 W 123rd St, New York, NY 10027 Unit Apartment 3",
+    "Price": "$3,000",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "333 E 34th St, New York, NY 10016",
+    "Price": "$7,000",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(646) 630-1629"
+  },
+  {
+    "rental_type": "MODA",
+    "address": "153-30 89th Ave, Jamaica, NY 11432",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 552-3555"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "200 E 82nd St, New York, NY 10028 Unit FL24-ID89",
+    "Price": "$6,220",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(888) 408-2109"
+  },
+  {
+    "rental_type": "145 E 26th St, New York, NY 10010",
+    "address": "145 E 26th St, New York, NY 10010",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(718) 704-8813"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "66 E 1st St, New York, NY 10003",
+    "Price": "$3,200 - $3,300",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "25-53-53 College Point Blvd, New York, NY 11356 Unit 1",
+    "Price": "$2,700",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 714-5355"
+  },
+  {
+    "rental_type": "The Vitagraph",
+    "address": "1277 E 14th St, Brooklyn, NY 11230",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 552-2732"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "105 Duane St, New York, NY 10007 Unit FL43-ID110",
+    "Price": "$7,410",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 885-7915"
+  },
+  {
+    "rental_type": "Freeman Residences",
+    "address": "183-185 Chrystie St, New York, NY 10002",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "113 E 77th St, New York, NY 10075 Unit 2A",
+    "Price": "$3,750",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "20 West St, New York, NY 10004 Unit 32F",
+    "Price": "$3,150",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(631) 253-2952"
+  },
+  {
+    "rental_type": "Webster Apartments- ALL WOMENS HOUSING",
+    "address": "229 Duffield St, Brooklyn, NY 11201",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(917) 779-0143"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "180 W 20th St, New York, NY 10011 Unit FL5-ID107",
+    "Price": "$4,690",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(877) 791-4599"
+  },
+  {
+    "rental_type": "215 E 4th St, New York, NY 10009",
+    "address": "215 E 4th St, New York, NY 10009",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(475) 241-7735"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "32 E 74th St, New York, NY 10021",
+    "Price": "$7,500 - $12,500",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2.5 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "225 Bennett Ave, New York, NY 10040 Unit 4L",
+    "Price": "$2,750",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(561) 436-0278"
+  },
+  {
+    "rental_type": "The Riverie",
+    "address": "18 India St, Brooklyn, NY 11222",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 552-8807"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "95 Wall St, New York, NY 10005 Unit FL14-ID119",
+    "Price": "$5,190",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(844) 403-0541"
+  },
+  {
+    "rental_type": "Forten at Columbia",
+    "address": "410 W 126th St, New York, NY 10027",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(848) 301-2391"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "4115A 75th St, Elmhurst, NY 11373 Unit #3",
+    "Price": "$3,800",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1.5 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "94 Hamilton Pl, New York, NY 10031 Unit 5E",
+    "Price": "$2,395",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(609) 742-2116"
+  },
+  {
+    "rental_type": "Sky Three",
+    "address": "532 Neptune Ave, Brooklyn, NY 11224",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(877) 584-1869"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "535 W 23rd St, New York, NY 10011 Unit FL11-ID80",
+    "Price": "$5,450",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 484-5433"
+  },
+  {
+    "rental_type": "Placemakr Wall Street",
+    "address": "110 Wall St, New York, NY 10005",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 828-1610"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "66 Marshall St, Elizabeth, NJ 07206 Unit 2R",
+    "Price": "$1,750",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "89-21 69th Rd, New York, NY 11357",
+    "Price": "$2,700",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 666-2800"
+  },
+  {
+    "rental_type": "7 Dekalb",
+    "address": "7 DeKalb Ave, Brooklyn, NY 11201",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 552-8673"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "200 E 11th St, New York, NY 10003 Unit FL7-ID10",
+    "Price": "$8,370",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(551) 267-7745"
+  },
+  {
+    "rental_type": "15 W 120 St",
+    "address": "15 W 120th St, New York, NY 10027",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(201) 613-2420"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1893 Pacific St, Brooklyn, NY 11233 Unit 2",
+    "Price": "$3,200",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "641 5th Ave, New York, NY 10022 Unit 29D",
+    "Price": "$16,800",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2.5 BATHS",
+    "contact": "(917) 859-7718"
+  },
+  {
+    "rental_type": "Shorecrest Towers",
+    "address": "2940-3000 Ocean Pky, Brooklyn, NY 11235",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(848) 200-1944"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "500 W 56th St, New York, NY 10019 Unit FL14-ID116",
+    "Price": "$5,730",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(844) 515-2398"
+  },
+  {
+    "rental_type": "939 2nd Ave, New York, NY 10022",
+    "address": "939 2nd Ave, New York, NY 10022",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(833) 658-2090"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "107 E 93rd St, Brooklyn, NY 11212 Unit 2F",
+    "Price": "$2,895",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "475 W 146th St, New York, NY 10031",
+    "Price": "$9,000",
+    "rental_size": "5 BEDS",
+    "Bath_size": "4 BATHS",
+    "contact": "(212) 962-3940"
+  },
+  {
+    "rental_type": "Ruby Square",
+    "address": "16620 90th Ave, Jamaica, NY 11432",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 362-2130"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "105 Duane St, New York, NY 10007 Unit FL32-ID82",
+    "Price": "$10,150",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1.5 BATHS",
+    "contact": "(551) 205-0946"
+  },
+  {
+    "rental_type": "1527 Bryant Avenue",
+    "address": "1525-1527 Bryant Ave, Bronx, NY 10460",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(201) 885-4152"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1205 Ave. Y, Brooklyn, NY 11235 Unit 1 Floor",
+    "Price": "$3,811",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "411-11 66th St, New York, NY 11692",
+    "Price": "$3,777",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(646) 409-9844"
+  },
+  {
+    "rental_type": "Parkchester",
+    "address": "2000 E Tremont Ave, Bronx, NY 10462",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 272-7968"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "53 Park Pl, New York, NY 10007 Unit FL2-ID52",
+    "Price": "$5,920",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(855) 528-4806"
+  },
+  {
+    "rental_type": "FOUND Study Brooklyn Heights - Student/Intern",
+    "address": "119 Columbia Hts, Brooklyn, NY 11201",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 410-5417"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "2268 Richmond Ter, Staten Island, NY 10302 Unit 1st Floor",
+    "Price": "$3,100",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "132 W 134th St, New York, NY 10030",
+    "Price": "$4,500",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 993-7566"
+  },
+  {
+    "rental_type": "Pearl & Pine",
+    "address": "180 Pearl St, New York, NY 10005",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 567-2861"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "101 W 15th St, New York, NY 10011 Unit FL6-ID34",
+    "Price": "$6,160",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(551) 227-3068"
+  },
+  {
+    "rental_type": "Douglaston Squire",
+    "address": "4430 Douglaston Pkwy, Douglaston, NY 11363",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(516) 687-5593"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1337 Bushwick Ave, Brooklyn, NY 11207 Unit 2nd floor",
+    "Price": "$3,800",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "517 E 77th St, New York, NY 10075",
+    "Price": "$3,400",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 403-0894"
+  },
+  {
+    "rental_type": "Westmark",
+    "address": "395 Carroll Street, Brooklyn, NY 11231",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 552-0476"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "606 1st Ave., New York, NY 10016 Unit FL30-ID720",
+    "Price": "$8,850",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(833) 618-1802"
+  },
+  {
+    "rental_type": "261 Eckford St, Brooklyn, NY 11222",
+    "address": "261 Eckford St, Brooklyn, NY 11222",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(971) 247-3942"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "170 Throop Ave, Brooklyn, NY 11206 Unit 2B",
+    "Price": "$2,200",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "124-06 26th Ave, New York, NY 11356 Unit 1FL",
+    "Price": "$2,700",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 660-3775"
+  },
+  {
+    "rental_type": "Gateway Battery Park City",
+    "address": "345-395 South End Ave, New York, NY 10280",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(973) 528-5070"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "180 Riverside Blvd, New York, NY 10069 Unit FL17-ID846",
+    "Price": "$7,290",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(201) 793-8223"
+  },
+  {
+    "rental_type": "The Rosemary Royale",
+    "address": "63-36 98th Pl, Rego Park, NY 11374",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 396-3167"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "9302 202nd St, Hollis, NY 11423",
+    "Price": "$3,850 - $3,950",
+    "rental_size": "3 - 4 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "20 River Ter., New York, NY 10282",
+    "Price": "$6,300",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(516) 376-2524"
+  },
+  {
+    "rental_type": "1440 Amsterdam Ave",
+    "address": "1440 Amsterdam Ave, New York, NY 10027",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(201) 720-1960"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "500 W 56th St, New York, NY 10019 Unit FL7-ID98",
+    "Price": "$3,910",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(877) 385-5528"
+  },
+  {
+    "rental_type": "183-03 Hillside Ave, Jamaica, NY 11432",
+    "address": "183-03 Hillside Ave, Jamaica, NY 11432",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 696-7703"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "2732 12th St, Astoria, NY 11102 Unit 3FL",
+    "Price": "$2,300",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "24-12 86th St, New York, NY 11370 Unit #2",
+    "Price": "$3,280",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(347) 334-2927"
+  },
+  {
+    "rental_type": "EHS Hudson Yards Campus",
+    "address": "419 W 34th St, New York, NY 10001",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(888) 894-8496"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "364 W 18th St, New York, NY 10011 Unit FL4-ID18",
+    "Price": "$5,760",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(833) 863-3870"
+  },
+  {
+    "rental_type": "NV Properties",
+    "address": "2475 Hughes Ave, Bronx, NY 10458",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 299-2186"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "13211 11th Ave, College Point, NY 11356 Unit 1",
+    "Price": "$2,500",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "225 Bennett Ave, New York, NY 10040 Unit 2M",
+    "Price": "$2,195",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(516) 510-7811"
+  },
+  {
+    "rental_type": "Park Towers South",
+    "address": "315 W 57th St, New York, NY 10019",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 345-5632"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "143 Mulberry St, New York, NY 10013 Unit FL2-ID907",
+    "Price": "$4,780",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(866) 631-2914"
+  },
+  {
+    "rental_type": "26A Scholes St, Brooklyn, NY 11206",
+    "address": "26A Scholes St, Brooklyn, NY 11206",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(718) 768-9523"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "4137 Boyd Ave, Bronx, NY 10466",
+    "Price": "Call for Price",
+    "rental_size": "1 - 2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "215-10 Hillside Ave., New York, NY 11428 Unit 1st Floor",
+    "Price": "$2,700",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 589-8391"
+  },
+  {
+    "rental_type": "FOUND Study Financial District",
+    "address": "99 Washington St, New York, NY 10006",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 828-1875"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "189 W 89th St, New York, NY 10024 Unit FL5-ID1047",
+    "Price": "$8,210",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(844) 418-2105"
+  },
+  {
+    "rental_type": "Seaview Apartments",
+    "address": "520-550 Seaview Ave, Staten Island, NY 10305",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(848) 281-3937"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "153 Heyward St, Brooklyn, NY 11206 Unit 1st floor garden",
+    "Price": "$3,850",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "33-27-27 69th St, New York, NY 11372",
+    "Price": "$3,800",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(347) 998-8292"
+  },
+  {
+    "rental_type": "499 President Gowanus Apartments",
+    "address": "499 President St, Brooklyn, NY 11215",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(917) 905-8268"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "400 E 57th St, New York, NY 10022 Unit FL6-ID1013",
+    "Price": "$3,580",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(551) 257-2418"
+  },
+  {
+    "rental_type": "Fairfield Tudor at Auburndale",
+    "address": "35-01-09 191st St, Flushing, NY 11358",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(516) 874-2212"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "13511 62nd Rd, Flushing, NY 11367 Unit 2nd floor",
+    "Price": "$1,900",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "144-77 41st Ave, New York, NY 11355",
+    "Price": "$1,725",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 567-4664"
+  },
+  {
+    "rental_type": "The Residences at Lighthouse Point",
+    "address": "35R Bay St, Staten Island, NY 10301",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 399-2259"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "7 E 75th St, New York, NY 10021 Unit FL6-ID1110",
+    "Price": "$10,540",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(855) 526-4265"
+  },
+  {
+    "rental_type": "The Astra - Income Restricted",
+    "address": "645 Gates Ave, Brooklyn, NY 11221",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 552-0608"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "761 E 101st St, Brooklyn, NY 11236 Unit #1",
+    "Price": "$2,600",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "268-06 82nd Ave, New York, NY 11040 Unit 1st Floor",
+    "Price": "$2,250",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(516) 220-8993"
+  },
+  {
+    "rental_type": "2-20 Malt Drive",
+    "address": "2-20 Malt Dr, Long Island City, NY 11101",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 344-6698"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "15 W 55th St, New York, NY 10019 Unit FL7-ID1144",
+    "Price": "$5,850",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 994-6295"
+  },
+  {
+    "rental_type": "Harlem Place 1",
+    "address": "511 W 145th St, New York, NY 10031",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 230-6623"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "157 Langham St, Brooklyn, NY 11235 Unit Onebedroomstudio",
+    "Price": "$1,500",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "84-80-84161 161st St, New York, NY 11432 Unit 1",
+    "Price": "$2,800",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 682-8120"
+  },
+  {
+    "rental_type": "The Exo",
+    "address": "26-38 21st St, Astoria, NY 11102",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 552-0930"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "160 E 48th St, New York, NY 10017 Unit FL12-ID1169",
+    "Price": "$6,500",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 552-4194"
+  },
+  {
+    "rental_type": "514 E 188th St, Bronx, NY 10458",
+    "address": "514 E 188th St, Bronx, NY 10458",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(914) 530-0762"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "604 Remsen Ave, Brooklyn, NY 11236 Unit 604 Remsen Ave. 3",
+    "Price": "$2,500",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "333 E 34th St, New York, NY 10016",
+    "Price": "$7,000",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(646) 630-1629"
+  },
+  {
+    "rental_type": "1515 Surf",
+    "address": "1515 Surf Ave, Brooklyn, NY 11224",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 552-9477"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "450 W 50th St, New York, NY 10019 Unit 4R",
+    "Price": "$6,495",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(551) 205-0762"
+  },
+  {
+    "rental_type": "2501 Hughes Ave, Bronx, NY 10458",
+    "address": "2501 Hughes Ave, Bronx, NY 10458",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(914) 371-3370"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "2249 37th St, Astoria, NY 11105 Unit 2A",
+    "Price": "$2,900",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "66-76 Fresh Pond Rd, Queens, NY 11385",
+    "Price": "$2,800",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 362-0006"
+  },
+  {
+    "rental_type": "38 6th Ave",
+    "address": "38 6th Ave, Brooklyn, NY 11217",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 552-8996"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "202 E 13th St, New York, NY 10003 Unit FL4-ID1261",
+    "Price": "$5,700",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(551) 261-5702"
+  },
+  {
+    "rental_type": "531 E 187th St, Bronx, NY 10458",
+    "address": "531 E 187th St, Bronx, NY 10458",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(201) 308-1825"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "2519 Curtis St, East Elmhurst, NY 11369 Unit 2",
+    "Price": "$2,800",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "6 Kelly Pkwy, Bayonne, NJ 07002 Unit 2",
+    "Price": "$2,200",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 970-0986"
+  },
+  {
+    "rental_type": "EHS St George Towers",
+    "address": "55 Clark St, Brooklyn, NY 11201",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(844) 595-1709"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "175 E 96th St, New York, NY 10128 Unit FL14-ID1297",
+    "Price": "$4,570",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(888) 460-2961"
+  },
+  {
+    "rental_type": "2486 Hughes Ave, Bronx, NY 10458",
+    "address": "2486 Hughes Ave, Bronx, NY 10458",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(914) 530-0725"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "9502 Avenue N, Brooklyn, NY 11236 Unit Downstairs Apartment",
+    "Price": "$3,200",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "165 Park Ave, Mount Vernon, NY 10550 Unit 2nd floor",
+    "Price": "$3,900",
+    "rental_size": "3 BEDS",
+    "Bath_size": "3 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "535 Carlton Ave",
+    "address": "535 Carlton Ave, Brooklyn, NY 11238",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 552-3628"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "101 W 86th St, New York, NY 10024 Unit 2E",
+    "Price": "$4,050",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 430-2983"
+  },
+  {
+    "rental_type": "281 Edgecombe Ave, New York, NY 10031",
+    "address": "281 Edgecombe Ave, New York, NY 10031",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(718) 792-6200"
+  },
+  {
+    "rental_type": "Room for Rent",
+    "address": "354 Butler St, Brooklyn, NY 11217 Unit Furnished studio apt",
+    "Price": "$1,900",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1174 Sherman Ave, The Bronx, NY 10456 Unit 2",
+    "Price": "$3,100",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "EOS",
+    "address": "100 W 31st St, New York, NY 10001",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(201) 580-2488"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "550 W 54th St, New York, NY 10019 Unit FL32-ID1710",
+    "Price": "$7,750",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(551) 205-0414"
+  },
+  {
+    "rental_type": "176 Bleecker St, New York, NY 10012",
+    "address": "176 Bleecker St, New York, NY 10012",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(201) 630-7727"
+  },
+  {
+    "rental_type": "Room for Rent",
+    "address": "138 9th St, Brooklyn, NY 11215 Unit Roommate",
+    "Price": "$950",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "3925 White Plains Rd, The Bronx, NY 10466 Unit 4A",
+    "Price": "$3,400",
+    "rental_size": "4 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 701-5627"
+  },
+  {
+    "rental_type": "Windsor Court",
+    "address": "155 E 31st St, New York, NY 10016",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 257-2749"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "225 E 21st St, New York, NY 10010",
+    "Price": "$14,000",
+    "rental_size": "STUDIO",
+    "Bath_size": "2 BATHS",
+    "contact": "(934) 529-1737"
+  },
+  {
+    "rental_type": "308 W 18th St",
+    "address": "308 W 18th St, New York, NY 10011",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 328-6479"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "24111 143rd Ave, Rosedale, NY 11422",
+    "Price": "$2,400",
+    "rental_size": "1 - 2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "64-11-64-99 99th St, Queens, NY 11374 Unit 301",
+    "Price": "$2,900",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 603-8955"
+  },
+  {
+    "rental_type": "Normandie Court",
+    "address": "1849 2nd Ave, New York, NY 10128",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 465-7639"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "70 W 45th St, New York, NY 10036 Unit FL33-ID1791",
+    "Price": "$4,690",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(833) 745-5627"
+  },
+  {
+    "rental_type": "111 E 39th St, New York, NY 10016",
+    "address": "111 E 39th St, New York, NY 10016",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(205) 831-7634"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "4115A 75th St, Elmhurst, NY 11373 Unit #3",
+    "Price": "$3,800",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1.5 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "4312 Carpenter Ave, The Bronx, NY 10466",
+    "Price": "$3,250",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(914) 441-1393"
+  },
+  {
+    "rental_type": "VIA 57 WEST",
+    "address": "625 W 57th St, New York, NY 10019",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(862) 298-4691"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "439 W 43rd St, New York, NY 10036 Unit 1",
+    "Price": "$7,500",
+    "rental_size": "5 BEDS",
+    "Bath_size": "3 BATHS",
+    "contact": "(516) 302-4629"
+  },
+  {
+    "rental_type": "726 Tenth Ave, New York, NY 10019",
+    "address": "726 Tenth Ave, New York, NY 10019",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 205-0898"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "495 Maple St, Brooklyn, NY 11225 Unit 2",
+    "Price": "$3,550",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "131 S 14th Ave, Mount Vernon, NY 10550 Unit 2",
+    "Price": "$4,000",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 637-0161"
+  },
+  {
+    "rental_type": "The Nash",
+    "address": "222 E 39th St, New York, NY 10016",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(844) 773-0083"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "225 E 21st St, New York, NY 10010",
+    "Price": "$4,000",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(631) 538-4056"
+  },
+  {
+    "rental_type": "115 E 37th St",
+    "address": "115 E 37th St, New York, NY 10016",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 798-5941"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "450 Jefferson Ave, Staten Island, NY 10306 Unit Second floor",
+    "Price": "$3,500",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "164 Atkins Ave, Brooklyn, NY 11208 Unit #2",
+    "Price": "$3,750",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(347) 233-4495"
+  },
+  {
+    "rental_type": "The Helena",
+    "address": "601 W 57th St, New York, NY 10019",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(862) 306-1123"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "20 Prince St, New York, NY 10012 Unit FL4-ID1855",
+    "Price": "$4,120",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(551) 277-5057"
+  },
+  {
+    "rental_type": "235 Sullivan St, New York, NY 10012",
+    "address": "235 Sullivan St, New York, NY 10012",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 205-0881"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "275 E 55th St, Brooklyn, NY 11203 Unit 1",
+    "Price": "$2,850",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "164 Atkins Ave, Brooklyn, NY 11208 Unit #1",
+    "Price": "$3,500",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(347) 233-4495"
+  },
+  {
+    "rental_type": "Sven",
+    "address": "2959 Northern Blvd, Long Island City, NY 11101",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(201) 613-1042"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "439 W 43rd St, New York, NY 10036 Unit 1",
+    "Price": "$7,500",
+    "rental_size": "5 BEDS",
+    "Bath_size": "3 BATHS",
+    "contact": "(516) 302-4629"
+  },
+  {
+    "rental_type": "35 E 7th St",
+    "address": "35 E 7th St, New York, NY 10003",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(201) 885-7317"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "870 Prospect Pl, Brooklyn, NY 11216 Unit 2",
+    "Price": "$4,500",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1545 Broadway, Brooklyn, NY 11221 Unit 3",
+    "Price": "$4,000",
+    "rental_size": "4 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(347) 525-1537"
+  },
+  {
+    "rental_type": "Anagram Turtle Bay",
+    "address": "300 E 50th St, New York, NY 10022",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(917) 994-8854"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "225 E 21st St, New York, NY 10010",
+    "Price": "$4,000",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(631) 538-4056"
+  },
+  {
+    "rental_type": "576 9th Ave, New York, NY 10036",
+    "address": "576 9th Ave, New York, NY 10036",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 205-0186"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "5 Edgar Ter, Staten Island, NY 10301 Unit Edgar",
+    "Price": "$2,600",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "85-21 Grand Ave, Queens, NY 11373",
+    "Price": "$8,000",
+    "rental_size": "1 BED",
+    "Bath_size": "0.5 BATHS",
+    "contact": "(347) 480-6402"
+  },
+  {
+    "rental_type": "The Blake",
+    "address": "214-228 E 63rd St, New York, NY 10065",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(877) 361-5737"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "20 Prince St, New York, NY 10012 Unit FL4-ID1855",
+    "Price": "$4,120",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(551) 277-5057"
+  },
+  {
+    "rental_type": "504 W 55th St, New York, NY 10019",
+    "address": "504 W 55th St, New York, NY 10019",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(855) 533-2236"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1925 Ryder St, Brooklyn, NY 11234 Unit L1",
+    "Price": "$2,350",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "727 Decatur St, Brooklyn, NY 11233",
+    "Price": "$3,250",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(516) 423-6877"
+  },
+  {
+    "rental_type": "The Octagon",
+    "address": "888 Main St, New York, NY 10044",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(201) 508-0152"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "436 W 52nd St, New York, NY 10019 Unit 7C",
+    "Price": "$6,295",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(833) 386-2749"
+  },
+  {
+    "rental_type": "222 E 7th St, New York, NY 10009",
+    "address": "222 E 7th St, New York, NY 10009",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(888) 513-8982"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "686 Woodward Ave, Ridgewood, NY 11385 Unit 1floor right",
+    "Price": "$3,000",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1-34 Meridian Blvd, Queens, NY 11692 Unit A",
+    "Price": "$4,200",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2.5 BATHS",
+    "contact": "(718) 899-7000"
+  },
+  {
+    "rental_type": "FOUND Study Midtown East - Student/Intern",
+    "address": "569 Lexington Ave, New York, NY 10022",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(201) 849-1294"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "6 Avenue B, New York, NY 10009 Unit FL2-ID1884",
+    "Price": "$4,260",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 351-2823"
+  },
+  {
+    "rental_type": "62 W 106th St, New York, NY 10025",
+    "address": "62 W 106th St, New York, NY 10025",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(201) 720-6218"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "176 Beach 97th St, Far Rockaway, NY 11693 Unit steps to the ocean",
+    "Price": "$3,200",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1-85 Beach 61st St, Queens, NY 11692 Unit 2",
+    "Price": "$2,800",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 945-1801"
+  },
+  {
+    "rental_type": "FOUND Study Turtle Bay- Student/Intern",
+    "address": "525 Lexington Ave, New York, NY 10017",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(516) 916-5845"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "9 W 103rd St, New York, NY 10025 Unit 2R",
+    "Price": "$4,995",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 482-3895"
+  },
+  {
+    "rental_type": "81 Sullivan St",
+    "address": "81 Sullivan St, New York, NY 10012",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(917) 779-8402"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "2175 48th St, Astoria, NY 11105 Unit Apt # 2",
+    "Price": "$3,250",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1-85 Beach 61st St, Queens, NY 11692 Unit 1",
+    "Price": "$3,300",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(718) 945-1801"
+  },
+  {
+    "rental_type": "FOUND Study Chelsea- Student/Intern",
+    "address": "189 Eighth Ave, New York, NY 10011",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 205-0246"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "363 W 17th St, New York, NY 10011 Unit FL2-ID2017",
+    "Price": "$4,720",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(646) 594-9337"
+  },
+  {
+    "rental_type": "252-254 E 74th St, New York, NY 10021",
+    "address": "252-254 E 74th St, New York, NY 10021",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(844) 623-0739"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "8279 164th Pl, Jamaica, NY 11432 Unit #1",
+    "Price": "$2,500",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "62 N 9th St, Brooklyn, NY 11249 Unit 3A",
+    "Price": "$4,250",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(848) 229-1810"
+  },
+  {
+    "rental_type": "The Tides At Arverne By The Sea",
+    "address": "190 Beach 69th St, Arverne, NY 11692",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(516) 362-2437"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "145 4th Ave, New York, NY 10003 Unit 15D",
+    "Price": "$5,150",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(551) 267-8663"
+  },
+  {
+    "rental_type": "230 Sullivan St",
+    "address": "230 Sullivan St, New York, NY 10012",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 205-0941"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "461 3rd Ave, Brooklyn, NY 11215 Unit 3",
+    "Price": "$4,500",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "107-09 220th St, Queens, NY 11429",
+    "Price": "$3,950",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(516) 784-1019"
+  },
+  {
+    "rental_type": "Avalon Riverview",
+    "address": "4-75 48th Ave, Long Island City, NY 11109",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(917) 746-0576"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "420 W 42nd St, New York, NY 10036 Unit 30E",
+    "Price": "$4,195",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(646) 766-8513"
+  },
+  {
+    "rental_type": "534 3rd Ave, New York, NY 10016",
+    "address": "534 3rd Ave, New York, NY 10016",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(845) 999-0928"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "13511 231st St, Springfield Gardens, NY 11413 Unit Basement",
+    "Price": "$2,150",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "41-20-41210 210th St, Queens, NY 11361 Unit #1",
+    "Price": "$2,350",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 256-9264"
+  },
+  {
+    "rental_type": "Maven",
+    "address": "2413 3rd Ave, Bronx, NY 10451",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(917) 962-8426"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "266 W 96th St, New York, NY 10025 Unit FL5-ID2029",
+    "Price": "$3,440",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(551) 465-5089"
+  },
+  {
+    "rental_type": "219 E 28th St, New York, NY 10016",
+    "address": "219 E 28th St, New York, NY 10016",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(201) 430-7150"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "3006 Johnson Ave, Bronx, NY 10463 Unit Ground floor",
+    "Price": "$3,300",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "108-46 153rd St, Queens, NY 11433 Unit 1FL",
+    "Price": "$2,900",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 379-3185"
+  },
+  {
+    "rental_type": "The Bay",
+    "address": "2971 Shell Rd, Brooklyn, NY 11224",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(914) 677-9686"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "95 Christopher St, New York, NY 10014 Unit 2C",
+    "Price": "$4,925",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 685-3038"
+  },
+  {
+    "rental_type": "64 W 82nd St, New York, NY 10024",
+    "address": "64 W 82nd St, New York, NY 10024",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(718) 635-1139"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "22023 Jamaica Ave, Queens Village, NY 11428 Unit 2nd floor",
+    "Price": "$2,700",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "141 Bismark Ave, Staten Island, NY 10301 Unit 2",
+    "Price": "$3,811",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "The Brooklyner",
+    "address": "111 Lawrence St, Brooklyn, NY 11201",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(844) 955-2387"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "95 Christopher St, New York, NY 10014 Unit 2K",
+    "Price": "$4,900",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(877) 367-0071"
+  },
+  {
+    "rental_type": "205 East 31st Street",
+    "address": "205 E 31st St, New York, NY 10016",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(201) 809-3493"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "744 Lexington Ave, Brooklyn, NY 11221 Unit 2",
+    "Price": "$3,100",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "7056 45th Ave, Queens, NY 11377",
+    "Price": "$3,200",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(646) 552-0561"
+  },
+  {
+    "rental_type": "Denizen BSHWK",
+    "address": "54 Noll St, Brooklyn, NY 11206",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 552-3513"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "222 E 34th St, New York, NY 10016 Unit FL18-ID2158",
+    "Price": "$6,460",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(844) 685-7721"
+  },
+  {
+    "rental_type": "852 Amsterdam Ave, New York, NY 10025",
+    "address": "852 Amsterdam Ave, New York, NY 10025",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 465-9176"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "16814 144th Rd, Jamaica, NY 11434 Unit Floor 1",
+    "Price": "$3,800",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2.5 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "7604 5th Ave, Brooklyn, NY 11209 Unit 2",
+    "Price": "$3,650",
+    "rental_size": "3 BEDS",
+    "Bath_size": "3 BATHS",
+    "contact": "(718) 612-3088"
+  },
+  {
+    "rental_type": "ParkHill City",
+    "address": "152-11 89th Ave, Jamaica, NY 11432",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(516) 699-1412"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "488 7th Ave, New York, NY 10018 Unit FL3-ID2168",
+    "Price": "$5,130",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 744-2070"
+  },
+  {
+    "rental_type": "1567 2nd Ave, New York, NY 10028",
+    "address": "1567 2nd Ave, New York, NY 10028",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(844) 958-1934"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "2333 E 24th St, Brooklyn, NY 11229 Unit 2nd Floor",
+    "Price": "$2,100",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1309 Vreeland Ave, The Bronx, NY 10461 Unit #3",
+    "Price": "$2,975",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(914) 548-1162"
+  },
+  {
+    "rental_type": "Woodside Central",
+    "address": "6902 Queens Blvd, Woodside, NY 11377",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 640-3825"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1427 York Ave, New York, NY 10021 Unit 5G",
+    "Price": "$3,100",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(646) 729-2820"
+  },
+  {
+    "rental_type": "419-421 W 50th St, New York, NY 10019",
+    "address": "419-421 W 50th St, New York, NY 10019",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 300-3878"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "421 78th St, Brooklyn, NY 11209 Unit 2",
+    "Price": "$5,900",
+    "rental_size": "3 BEDS",
+    "Bath_size": "3 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "137-28 170th St, Queens, NY 11434 Unit M1",
+    "Price": "$1,500",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(877) 793-4867"
+  },
+  {
+    "rental_type": "The Arabella",
+    "address": "448 E 189th St, Bronx, NY 10458",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 712-9291"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "420 E 80th St, New York, NY 10075 Unit FL9-ID2182",
+    "Price": "$5,530",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(866) 616-9669"
+  },
+  {
+    "rental_type": "303 E 56th St, New York, NY 10022",
+    "address": "303 E 56th St, New York, NY 10022",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(667) 275-7621"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "17716 Leslie Rd, Jamaica, NY 11434",
+    "Price": "$3,400",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "167-11 144th Dr, Queens, NY 11434 Unit 2nd Floor",
+    "Price": "$3,850",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 949-3934"
+  },
+  {
+    "rental_type": "Belshire Manor I-II",
+    "address": "16-70 Bell Blvd, Bayside, NY 11360",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 205-1473"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "410 E 13th St, New York, NY 10009 Unit 5E",
+    "Price": "$4,495",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(877) 834-5948"
+  },
+  {
+    "rental_type": "239 W 12th St, New York, NY 10014",
+    "address": "239 W 12th St, New York, NY 10014",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "513 Grandview Ave, Ridgewood, NY 11385 Unit 2L",
+    "Price": "$2,800",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "91-03 80th St, Queens, NY 11421 Unit 2nd Floor",
+    "Price": "$2,800",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 276-4848"
+  },
+  {
+    "rental_type": "Fairfield Manor At Douglaston",
+    "address": "43 - 60 Douglaston Pky, Douglaston, NY 11363",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(516) 656-7284"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "85 John St, New York, NY 10038 Unit FL13-ID2201",
+    "Price": "$5,510",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(866) 620-0544"
+  },
+  {
+    "rental_type": "53 W 72nd St, New York, NY 10023",
+    "address": "53 W 72nd St, New York, NY 10023",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 277-5733"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1378 Bristow St, Bronx, NY 10459",
+    "Price": "$3,811 - $4,111",
+    "rental_size": "3 - 4 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "177-37 106th Ave, Queens, NY 11433 Unit 2nd Floor",
+    "Price": "$3,250",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 785-5588"
+  },
+  {
+    "rental_type": "Arverne View",
+    "address": "5717 Shore Front Pky, Arverne, NY 11692",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(516) 619-1319"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "117 W 13th St, New York, NY 10011 Unit 41",
+    "Price": "$4,025",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 484-5043"
+  },
+  {
+    "rental_type": "15 W 96th St, New York, NY 10025",
+    "address": "15 W 96th St, New York, NY 10025",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(855) 359-1494"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1956 Coney Island Ave, Brooklyn, NY 11223 Unit 3BD 1BA 2 FLOOR",
+    "Price": "$3,811",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "291 18th St, Brooklyn, NY 11215 Unit 2",
+    "Price": "$5,000",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(718) 872-9300"
+  },
+  {
+    "rental_type": "The Post on Fort",
+    "address": "3470 Fort Independence St, Bronx, NY 10463",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(914) 677-2497"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "222 E 39th St, New York, NY 10016 Unit 23B",
+    "Price": "$5,200",
+    "rental_size": "1 BED",
+    "Bath_size": "1.5 BATHS",
+    "contact": "(844) 670-6225"
+  },
+  {
+    "rental_type": "152 E 84th St, New York, NY 10028",
+    "address": "152 E 84th St, New York, NY 10028",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(855) 516-5289"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "420 Screvin Ave, Bronx, NY 10473 Unit 2",
+    "Price": "$2,700",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "90-16 Rockaway Beach Blvd, Queens, NY 11693 Unit 1",
+    "Price": "$2,500",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 634-3134"
+  },
+  {
+    "rental_type": "The Ambassador East",
+    "address": "330 E 46th St, New York, NY 10017",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 603-1778"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "527 Dean St, Brooklyn, NY 11217 Unit FL4-ID953",
+    "Price": "$4,880",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(929) 732-7563"
+  },
+  {
+    "rental_type": "305 W 45th St, New York, NY 10036",
+    "address": "305 W 45th St, New York, NY 10036",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(844) 656-2587"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "125 E 39th St, Brooklyn, NY 11203 Unit 1",
+    "Price": "$2,700",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "2055 70th St, Brooklyn, NY 11204 Unit 1",
+    "Price": "$2,700",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 838-2600"
+  },
+  {
+    "rental_type": "1856 Park Avenue",
+    "address": "1856 Park Ave, New York, NY 10035",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 392-7564"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "545 Vanderbilt Ave, Brooklyn, NY 11238 Unit FL20-ID973",
+    "Price": "$3,160",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(347) 418-0832"
+  },
+  {
+    "rental_type": "2112 Avenue P, Brooklyn, NY 11229",
+    "address": "2112 Avenue P, Brooklyn, NY 11229",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 623-7658"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "24915 147th Ave, Rosedale, NY 11422 Unit #1",
+    "Price": "$3,200",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "2055 70th St, Brooklyn, NY 11204 Unit 2",
+    "Price": "$2,500",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 838-2600"
+  },
+  {
+    "rental_type": "Oxford East",
+    "address": "333-335 E 49th St, New York, NY 10017",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(844) 996-1684"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "3333 Henry Hudson Pkwy W, The Bronx, NY 10463 Unit 16V",
+    "Price": "$2,680",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 822-5517"
+  },
+  {
+    "rental_type": "Skylimit Tower",
+    "address": "4334 53rd St, Woodside, NY 11377",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 242-5663"
+  },
+  {
+    "rental_type": "Room for Rent",
+    "address": "309 Corbin Ave, Staten Island, NY 10308",
+    "Price": "$1,800",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "101-29 113th St, Queens, NY 11419 Unit 2",
+    "Price": "$3,500",
+    "rental_size": "4 BEDS",
+    "Bath_size": "1.5 BATHS",
+    "contact": "(718) 838-2600"
+  },
+  {
+    "rental_type": "Marquis Apartments",
+    "address": "150 E 34th St, New York, NY 10016",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 465-7977"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "3333 Henry Hudson Pkwy W, The Bronx, NY 10463 Unit 18R",
+    "Price": "$2,990",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 930-6004"
+  },
+  {
+    "rental_type": "31-44 35th Street",
+    "address": "3144 35th St, Astoria, NY 11106",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 295-8334"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "309 Covert St, Brooklyn, NY 11237 Unit 2nd Fl",
+    "Price": "$3,300",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "736 E 83rd St, Brooklyn, NY 11236 Unit 2",
+    "Price": "$3,400",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1.5 BATHS",
+    "contact": "(718) 269-4598"
+  },
+  {
+    "rental_type": "Midwest Court",
+    "address": "410 W 53rd St, New York, NY 10019",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 888-3289"
+  },
+  {
+    "rental_type": "645 W 239th St, Bronx, NY 10463",
+    "address": "645 W 239th St, Bronx, NY 10463",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(914) 863-5503"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "8036 242nd St, Bellerose, NY 11426 Unit 1st Floor",
+    "Price": "$2,695",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1209 E 93rd St, Brooklyn, NY 11236 Unit 2nd Fl",
+    "Price": "$3,500",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(516) 765-7362"
+  },
+  {
+    "rental_type": "One Lincoln Plaza",
+    "address": "20 W 64th St, New York, NY 10023",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(201) 548-9606"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "3216 Griswold Ave, The Bronx, NY 10465 Unit 2",
+    "Price": "$2,900",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 540-9402"
+  },
+  {
+    "rental_type": "40 N 4th St, Brooklyn, NY 11249",
+    "address": "40 N 4th St, Brooklyn, NY 11249",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(855) 678-4367"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "8814 70th Rd, Forest Hills, NY 11375 Unit 2FL",
+    "Price": "$3,900",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "69-35 Hessler Ave, Queens, NY 11692",
+    "Price": "$3,625",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(516) 312-3223"
+  },
+  {
+    "rental_type": "96 Fifth Ave",
+    "address": "96 Fifth Ave, New York, NY 10011",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(743) 867-9747"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "87 Commercial St, Brooklyn, NY 11222 Unit FL34-ID1813",
+    "Price": "$5,050",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 706-3159"
+  },
+  {
+    "rental_type": "Parkhill City",
+    "address": "152-09 88th Ave, Jamaica, NY 11432",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 427-5349"
+  },
+  {
+    "rental_type": "Room for Rent",
+    "address": "3334 89th St, Jackson Heights, NY 11372 Unit 2",
+    "Price": "$2,000",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "41-26 44th St, Queens, NY 11104 Unit 6D",
+    "Price": "$3,154",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 786-6700"
+  },
+  {
+    "rental_type": "Wimbledon Tower",
+    "address": "236 E 36th St, New York, NY 10016",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 787-1014"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1524 Canarsie Rd, Brooklyn, NY 11236",
+    "Price": "$1,400",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(347) 754-3889"
+  },
+  {
+    "rental_type": "558 E 191st St, Bronx, NY 10458",
+    "address": "558 E 191st St, Bronx, NY 10458",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Room for Rent",
+    "address": "6140 56th Dr, Maspeth, NY 11378 Unit 61-40 56th Drive",
+    "Price": "$2,400",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "88 Nichols Ave, Brooklyn, NY 11208 Unit 2",
+    "Price": "$3,350",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(516) 462-6196"
+  },
+  {
+    "rental_type": "137 E 38th St, New York, NY 10016",
+    "address": "137 E 38th St, New York, NY 10016",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(844) 821-2794"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "82 4th Ave, Brooklyn, NY 11217 Unit FL6-ID1880",
+    "Price": "$3,310",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 590-9548"
+  },
+  {
+    "rental_type": "603 Knickerbocker Ave, Brooklyn, NY 11221",
+    "address": "603 Knickerbocker Ave, Brooklyn, NY 11221",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(855) 501-5283"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "3258 86th St, East Elmhurst, NY 11369",
+    "Price": "$1,450 - $3,500",
+    "rental_size": "1 - 3 BEDS",
+    "Bath_size": "1 - 1.5 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "23-49-49 Corporal Kennedy St, Queens, NY 11360 Unit 2FL",
+    "Price": "$3,300",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(917) 698-9941"
+  },
+  {
+    "rental_type": "528 Third Ave, New York, NY 10016",
+    "address": "528 Third Ave, New York, NY 10016",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(888) 926-3804"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "433 Wythe Ave, Brooklyn, NY 11249 Unit FL1-ID2082",
+    "Price": "$4,190",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 661-8097"
+  },
+  {
+    "rental_type": "2575 22nd St, Astoria, NY 11102",
+    "address": "2575 22nd St, Astoria, NY 11102",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(201) 885-5648"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "2861 Grace Ave, Bronx, NY 10469 Unit Apt 1",
+    "Price": "$3,645",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "39-14 214th Pl, Queens, NY 11361 Unit 1FL",
+    "Price": "$2,280",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(650) 265-8088"
+  },
+  {
+    "rental_type": "The Towne House",
+    "address": "106-114 E 38th St, New York, NY 10016",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(855) 693-4150"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "187 Kent Ave, Brooklyn, NY 11249 Unit FL7-ID2079",
+    "Price": "$5,250",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 605-5459"
+  },
+  {
+    "rental_type": "Fordham Place",
+    "address": "2503 Hughes Ave, Bronx, NY 10458",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "3055 32nd St, Astoria, NY 11102 Unit #1",
+    "Price": "$3,800",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "94-61 Alstyne Ave, Queens, NY 11373 Unit 1",
+    "Price": "$3,550",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 208-6713"
+  },
+  {
+    "rental_type": "The Dryden East",
+    "address": "150 E 39th St, New York, NY 10016",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(855) 910-7864"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "68 Gold St, Brooklyn, NY 11201 Unit FL1-ID2111",
+    "Price": "$3,860",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(347) 652-2690"
+  },
+  {
+    "rental_type": "93-99 Commercial St, Brooklyn, NY 11222",
+    "address": "93-99 Commercial St, Brooklyn, NY 11222",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 503-3278"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "753 Flatbush Ave, Brooklyn, NY 11226 Unit 2nd floor",
+    "Price": "$3,500",
+    "rental_size": "4 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "18-16 Bell Blvd, Queens, NY 11360 Unit 1",
+    "Price": "$2,500",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 428-3663"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "18-30-30 Whitestone Expy, Queens, NY 11357",
+    "Price": "$3,599",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 560-2045"
+  },
+  {
+    "rental_type": "The Aspen",
+    "address": "1955 1st Ave, New York, NY 10029",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(866) 854-5158"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "433 Wythe Ave, Brooklyn, NY 11249 Unit FL1-ID2082",
+    "Price": "$4,180",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 661-8097"
+  },
+  {
+    "rental_type": "30-17 34th St, Long Island City, NY 11103 Unit 4B",
+    "address": "30-17 34th St, Long Island City, NY 11103",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 713-0772"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "210 Balcom Ave, Bronx, NY 10465 Unit 2nd floor",
+    "Price": "$1,750",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1643 Bath Ave, Brooklyn, NY 11214 Unit 3",
+    "Price": "$3,000",
+    "rental_size": "4 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 838-2600"
+  },
+  {
+    "rental_type": "Prospect House",
+    "address": "953 Dean St, Brooklyn, NY 11238",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 380-5656"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "187 Kent Ave, Brooklyn, NY 11249 Unit FL7-ID2079",
+    "Price": "$5,240",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 605-5459"
+  },
+  {
+    "rental_type": "66-70 Tulip Avenue",
+    "address": "66-70 Tulip Ave, Floral Park, NY 11001",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(516) 670-1479"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "2832 Maitland Ave, Bronx, NY 10461 Unit Lower Level Basement",
+    "Price": "$1,750",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "160-13 N Conduit Ave, Queens, NY 11434",
+    "Price": "$2,350",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(516) 353-5677"
+  },
+  {
+    "rental_type": "LeFrak City",
+    "address": "96-02-96-40 57th Ave, Corona, NY 11368",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(201) 582-2127"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "68 Gold St, Brooklyn, NY 11201 Unit FL1-ID2111",
+    "Price": "$3,870",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(347) 652-2690"
+  },
+  {
+    "rental_type": "2505 Hoffman St, Bronx, NY 10458",
+    "address": "2505 Hoffman St, Bronx, NY 10458",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(914) 677-1069"
+  },
+  {
+    "rental_type": "Room for Rent",
+    "address": "6915 171st St, Fresh Meadows, NY 11365 Unit Basement, 1 Bedroom",
+    "Price": "$2,000",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "108-24 Springfield Blvd, Queens, NY 11429",
+    "Price": "$4,000",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(646) 894-3458"
+  },
+  {
+    "rental_type": "Silver Lake Apartments",
+    "address": "937 Victory Blvd, Staten Island, NY 10301",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(973) 755-0769"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "930 Grand Concourse, The Bronx, NY 10451 Unit 10J",
+    "Price": "$3,625",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(917) 540-5124"
+  },
+  {
+    "rental_type": "788 Macon St, Brooklyn, NY 11233",
+    "address": "788 Macon St, Brooklyn, NY 11233",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(959) 255-9846"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "13828 250th St, Rosedale, NY 11422 Unit 1fl",
+    "Price": "$2,500",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "132-54 Pople Ave, Queens, NY 11355 Unit #3",
+    "Price": "$2,800",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1.5 BATHS",
+    "contact": "(929) 988-0348"
+  },
+  {
+    "rental_type": "Oskar Luxury Apartments",
+    "address": "572 11th Ave, New York, NY 10036",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(844) 790-3654"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "144-74 Northern Blvd, Queens, NY 11354 Unit 7T",
+    "Price": "$3,800",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(929) 734-7915"
+  },
+  {
+    "rental_type": "622 Van Cortlandt Pk Ave",
+    "address": "622 Van Cortlandt Pk Ave, Yonkers, NY 10705",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(201) 431-0194"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "141 E 29th St, New York, NY 10016",
+    "Price": "$4,495 - $5,995",
+    "rental_size": "2 - 3 BEDS",
+    "Bath_size": "1 - 2 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "80-24 138th St, Queens, NY 11435",
+    "Price": "$3,200",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 547-1555"
+  },
+  {
+    "rental_type": "1998 Second Avenue",
+    "address": "1998 2nd Ave, New York, NY 10029",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 470-7768"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "544 Carroll St, Brooklyn, NY 11215 Unit FL12-ID2202",
+    "Price": "$5,800",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(347) 657-7915"
+  },
+  {
+    "rental_type": "2406 Hoffman St, The Bronx, NY 10458",
+    "address": "2406 Hoffman St, The Bronx, NY 10458",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 282-2551"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "440 E 79th St, New York, NY 10075",
+    "Price": "$3,500 - $8,200",
+    "rental_size": "STUDIO - 3 BEDS",
+    "Bath_size": "1 - 3 BATHS",
+    "contact": "(646) 729-2608"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "126-15 Liberty Ave, Queens, NY 11419",
+    "Price": "$2,200",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(646) 772-8290"
+  },
+  {
+    "rental_type": "30 Morningside Dr, New York, NY 10025",
+    "address": "30 Morningside Dr, New York, NY 10025",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 472-7464"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "144-74 Northern Blvd, Queens, NY 11354 Unit PHJ",
+    "Price": "$3,100",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 209-4089"
+  },
+  {
+    "rental_type": "43-39 158th St",
+    "address": "43-39 158th St, Flushing, NY 11358",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 236-9608"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "218 E 50th St, New York, NY 10022 Unit 3",
+    "Price": "$6,700",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1.5 BATHS",
+    "contact": "(844) 410-4941"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "114-85 177th Pl, Queens, NY 11434 Unit Floor 2",
+    "Price": "$4,600",
+    "rental_size": "4 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(347) 748-3284"
+  },
+  {
+    "rental_type": "Mabel",
+    "address": "335 Eighth Ave, New York, NY 10001",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 756-1257"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "150 Lawrence St, Brooklyn, NY 11201 Unit FL16-ID2213",
+    "Price": "$3,920",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 260-6747"
+  },
+  {
+    "rental_type": "11315 76th Rd, Forest Hills, NY 11375",
+    "address": "11315 76th Rd, Forest Hills, NY 11375",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 396-3348"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "347 W 53rd St, New York, NY 10019",
+    "Price": "$4,295 - $6,395",
+    "rental_size": "2 - 3 BEDS",
+    "Bath_size": "1 - 2 BATHS",
+    "contact": "(646) 217-4690"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "133-27 39th Ave, Queens, NY 11354 Unit 3H",
+    "Price": "$4,300",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(917) 560-8818"
+  },
+  {
+    "rental_type": "22 Chapel St, Brooklyn, NY 11201",
+    "address": "22 Chapel St, Brooklyn, NY 11201",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(718) 550-0022"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "420 E 54th St, New York, NY 10022 Unit FL21-ID1482",
+    "Price": "$7,850",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(201) 351-1566"
+  },
+  {
+    "rental_type": "91-35 195th Street",
+    "address": "9135 195th St, Hollis, NY 11423",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(516) 619-1998"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "251 Water St, New York, NY 10038",
+    "Price": "$3,495 - $7,995",
+    "rental_size": "STUDIO - 4 BEDS",
+    "Bath_size": "1 - 2.5 BATHS",
+    "contact": "(646) 517-5592"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "69-35 222nd St, Queens, NY 11364",
+    "Price": "$2,900",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(516) 888-8988"
+  },
+  {
+    "rental_type": "PLG 123 Linden Apartments",
+    "address": "123 Linden Blvd, Brooklyn, NY 11226",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(718) 926-7649"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "101 W 15th St, New York, NY 10011 Unit FL2-ID7",
+    "Price": "$7,460",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(551) 267-9412"
+  },
+  {
+    "rental_type": "St Georges Crescent",
+    "address": "186 Saint Georges Cres, Bronx, NY 10458",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(914) 826-8621"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "149 E 29th St, New York, NY 10016",
+    "Price": "$3,050 - $6,000",
+    "rental_size": "STUDIO - 3 BEDS",
+    "Bath_size": "1 - 2 BATHS",
+    "contact": "(201) 552-3177"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "887 Pine St, Brooklyn, NY 11208",
+    "Price": "$2,500",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 373-5237"
+  },
+  {
+    "rental_type": "Eighty Nine Dekalb",
+    "address": "89 Dekalb Ave, Brooklyn, NY 11201",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 565-6068"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "212 W 91st St, New York, NY 10024 Unit FL4-ID1100",
+    "Price": "$4,480",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 430-7733"
+  },
+  {
+    "rental_type": "The Park",
+    "address": "6155 Broadway, Bronx, NY 10471",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(914) 677-1429"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "313 W 53rd St, New York, NY 10019",
+    "Price": "$4,050 - $7,500",
+    "rental_size": "2 - 4 BEDS",
+    "Bath_size": "1.5 - 2 BATHS",
+    "contact": "(201) 552-3947"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "105-12 Liberty Ave, Queens, NY 11417",
+    "Price": "$2,800",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 323-5000"
+  },
+  {
+    "rental_type": "The Highland Apartments",
+    "address": "2840 Atlantic Ave, Brooklyn, NY 11207",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 629-9721"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "85-88 8th Ave, New York, NY 10011 Unit 2S",
+    "Price": "$3,700",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(551) 205-5424"
+  },
+  {
+    "rental_type": "308 E 52nd St, New York, NY 10022",
+    "address": "308 E 52nd St, New York, NY 10022",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 484-6157"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "152 E 79th St, New York, NY 10075",
+    "Price": "$4,400 - $9,200",
+    "rental_size": "1 - 3 BEDS",
+    "Bath_size": "1 - 2 BATHS",
+    "contact": "(833) 681-1535"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "94-61 Alstyne Ave, Queens, NY 11373 Unit 2",
+    "Price": "$3,500",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 208-6713"
+  },
+  {
+    "rental_type": "136-14-136-18 Northern Blvd, Flushing, NY 11354",
+    "address": "136-14-136-18 Northern Blvd, Flushing, NY 11354",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 262-8007"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "700 Fort Washington Ave, New York, NY 10040 Unit 5J",
+    "Price": "$4,400",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 431-8947"
+  },
+  {
+    "rental_type": "138 E 37th St",
+    "address": "138 E 37th St, New York, NY 10016",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 484-6157"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "124 Nassau St, New York, NY 10038 Unit 11",
+    "Price": "$6,495",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(551) 229-9589"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "180-11 146th Ave, Queens, NY 11434",
+    "Price": "$3,811",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(347) 463-5663"
+  },
+  {
+    "rental_type": "Rose Terrace",
+    "address": "139-81 35th Ave, Flushing, NY 11354",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(718) 939-4888"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "72 Charles St, New York, NY 10014 Unit FL3-ID490",
+    "Price": "$5,730",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(855) 758-3448"
+  },
+  {
+    "rental_type": "Niko East Village",
+    "address": "751 E 6th St, New York, NY 10009",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 348-3248"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "147 E 37th St, New York, NY 10016",
+    "Price": "$3,300 - $5,000",
+    "rental_size": "STUDIO - 1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(551) 257-2695"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "24-07 Brookhaven Ave, Queens, NY 11691 Unit 2nd FL.",
+    "Price": "$3,200",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(917) 710-1376"
+  },
+  {
+    "rental_type": "The Bennington",
+    "address": "140-16 34th Ave, Flushing, NY 11354",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 262-8007"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "550 W 54th St, New York, NY 10019 Unit FL26-ID525",
+    "Price": "$5,880",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Isabella House Senior Independent Living",
+    "address": "525 Audubon Ave, New York, NY 10040",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(917) 864-2723"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "236 E 61st St, New York, NY 10065",
+    "Price": "$4,800 - $6,700",
+    "rental_size": "2 - 3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 351-1670"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "149-33 88th St, Queens, NY 11414 Unit 2 (2nd Floor)",
+    "Price": "$2,400",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1.5 BATHS",
+    "contact": "(718) 381-1029"
+  },
+  {
+    "rental_type": "Douglass Street Apartments",
+    "address": "336 Douglass St, Brooklyn, NY 11217",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(718) 400-0336"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "180 Water St, New York, NY 10038 Unit FL12-ID535",
+    "Price": "$6,390",
+    "rental_size": "1 BED",
+    "Bath_size": "2 BATHS",
+    "contact": "(929) 552-6190"
+  },
+  {
+    "rental_type": "Metro View",
+    "address": "14-56 31st Dr, Astoria, NY 11106",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 262-8007"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "144 Fulton St, New York, NY 10038 Unit 4",
+    "Price": "$6,490",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(551) 261-4086"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "41-30-41249 249th St, Queens, NY 11363",
+    "Price": "$3,550",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(718) 801-7110"
+  },
+  {
+    "rental_type": "The Ventura",
+    "address": "240 E 86th St, New York, NY 10028",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 678-3445"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "200 E 11th St, New York, NY 10003 Unit FL6-ID278",
+    "Price": "$8,680",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(866) 425-1618"
+  },
+  {
+    "rental_type": "North Main Towers",
+    "address": "137-02 Northern Blvd, Flushing, NY 11354",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 262-8007"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "443 W 43rd St, New York, NY 10036",
+    "Price": "$3,550 - $7,995",
+    "rental_size": "STUDIO - 4 BEDS",
+    "Bath_size": "1 - 2 BATHS",
+    "contact": "(551) 203-7188"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "243-01 130th Ave, Queens, NY 11422",
+    "Price": "$3,000",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 479-5606"
+  },
+  {
+    "rental_type": "Lexington Towers",
+    "address": "160 E 88th St, New York, NY 10128",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 833-3300"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "10 W 65th St, New York, NY 10023 Unit FL6-ID294",
+    "Price": "$7,530",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 430-7861"
+  },
+  {
+    "rental_type": "667 Glenmore Ave, Brooklyn, NY 11207",
+    "address": "667 Glenmore Ave, Brooklyn, NY 11207",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 762-4982"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "162 Chambers St, New York, NY 10007 Unit 3",
+    "Price": "$8,980",
+    "rental_size": "4 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(718) 831-6511"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "118-06 179th St, Queens, NY 11434 Unit 2",
+    "Price": "$3,000",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 734-2889"
+  },
+  {
+    "rental_type": "Manhattan Park",
+    "address": "10-40 River Rd, New York, NY 10044",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(866) 509-2407"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "225 E 63rd St, New York, NY 10065 Unit FL3-ID338",
+    "Price": "$5,010",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 552-3468"
+  },
+  {
+    "rental_type": "37-15 Parsons Blvd, Flushing, NY 11354",
+    "address": "37-15 Parsons Blvd, Flushing, NY 11354",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 262-8007"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "81 Warren St, New York, NY 10007 Unit 3",
+    "Price": "$8,126",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(551) 227-3517"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "125 Bronx River Rd, Yonkers, NY 10704 Unit 7K",
+    "Price": "$2,600",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(914) 494-5211"
+  },
+  {
+    "rental_type": "91 Fourth Avenue",
+    "address": "85 4th Ave, New York, NY 10003",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(914) 837-9339"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "225 E 63rd St, New York, NY 10065 Unit FL3-ID345",
+    "Price": "$4,910",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 643-6662"
+  },
+  {
+    "rental_type": "Cara Terrace",
+    "address": "83-33 118th St, Kew Gardens, NY 11415",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 262-8007"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "202 E 22nd St, New York, NY 10010",
+    "Price": "$4,600 - $7,755",
+    "rental_size": "1 - 3 BEDS",
+    "Bath_size": "1 - 2 BATHS",
+    "contact": "(551) 229-9670"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "815 E 21st St, Brooklyn, NY 11210",
+    "Price": "$2,800",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 692-9330"
+  },
+  {
+    "rental_type": "21 West End Ave",
+    "address": "21 West End Ave, New York, NY 10023",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(929) 238-9437"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "450 W 17th St, New York, NY 10011 Unit FL9-ID366",
+    "Price": "$5,790",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 616-7049"
+  },
+  {
+    "rental_type": "MetLife",
+    "address": "136-39-136-45 37th Ave, Flushing, NY 11354",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 262-8007"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "53 Nassau St, New York, NY 10038 Unit 4",
+    "Price": "$4,895",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(551) 227-3580"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "20-07 43rd St, Queens, NY 11105 Unit 2",
+    "Price": "$1,849",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 690-2821"
+  },
+  {
+    "rental_type": "The Sutton Collection",
+    "address": "984-990 1st Ave, New York, NY 10022",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 586-2416"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "952 5th Ave, New York, NY 10075 Unit FL4-ID367",
+    "Price": "$6,370",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(866) 729-6306"
+  },
+  {
+    "rental_type": "1910 Parsons Blvd, Flushing, NY 11357",
+    "address": "1910 Parsons Blvd, Flushing, NY 11357",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 262-8007"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "315 W 48th St, New York, NY 10036",
+    "Price": "$3,700 - $7,000",
+    "rental_size": "STUDIO - 3 BEDS",
+    "Bath_size": "0.5 - 2 BATHS",
+    "contact": "(845) 999-0968"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "132-55-132-41 41st Rd, Queens, NY 11355 Unit 2B",
+    "Price": "$2,800",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 418-8233"
+  },
+  {
+    "rental_type": "120 West 97th Street",
+    "address": "755 Amsterdam Ave, New York, NY 10025",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(833) 593-1935"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "290 3rd Ave, New York, NY 10010 Unit FL25-ID401",
+    "Price": "$8,230",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(551) 888-3167"
+  },
+  {
+    "rental_type": "3208 Union St, Flushing, NY 11354",
+    "address": "3208 Union St, Flushing, NY 11354",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 262-8007"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "121 E 38th St, New York, NY 10016",
+    "Price": "$3,300 - $5,000",
+    "rental_size": "STUDIO - 2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "675 New Jersey Ave, Brooklyn, NY 11207",
+    "Price": "$2,500",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 771-0678"
+  },
+  {
+    "rental_type": "Grand Tier",
+    "address": "1930 Broadway, New York, NY 10023",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 535-0500"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "60 W 66th St, New York, NY 10023 Unit FL17-ID415",
+    "Price": "$7,200",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(646) 512-8503"
+  },
+  {
+    "rental_type": "555 Ovington Ave",
+    "address": "555 Ovington Ave, Brooklyn, NY 11209",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(973) 377-0480"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "366 W 46th St, New York, NY 10036 Unit 3",
+    "Price": "$6,495",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(855) 601-4605"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "130-12 178th St, Queens, NY 11434",
+    "Price": "$3,800",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(718) 501-2838"
+  },
+  {
+    "rental_type": "220 East 72nd Street",
+    "address": "220 E 72nd St, New York, NY 10021",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 851-1054"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "72 Charles St, New York, NY 10014 Unit FL3-ID490",
+    "Price": "$5,730",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(855) 758-3448"
+  },
+  {
+    "rental_type": "The Clarendon House",
+    "address": "14420 38th Ave, Flushing, NY 11354",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 262-8007"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "448 W 44th St, New York, NY 10036 Unit 4",
+    "Price": "$6,495",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(646) 392-7927"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "117-10 135th Ave, Queens, NY 11420",
+    "Price": "$3,700",
+    "rental_size": "4 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(718) 835-4700"
+  },
+  {
+    "rental_type": "200 Water Street",
+    "address": "200 Water St, New York, NY 10038",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 204-1220"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "550 W 54th St, New York, NY 10019 Unit FL26-ID525",
+    "Price": "$5,880",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Yorkside Towers II",
+    "address": "89-44 162nd St, Jamaica, NY 11432",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 262-8007"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "524 9th Ave, New York, NY 10018",
+    "Price": "$3,800 - $7,000",
+    "rental_size": "STUDIO - 3 BEDS",
+    "Bath_size": "1 - 2 BATHS",
+    "contact": "(845) 999-0578"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "27 Vanderbilt Ave, Brooklyn, NY 11205 Unit 1st Fl",
+    "Price": "$3,495",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 404-6483"
+  },
+  {
+    "rental_type": "Liberty Luxe",
+    "address": "200 North End Ave, New York, NY 10282",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 945-4200"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "180 Water St, New York, NY 10038 Unit FL12-ID535",
+    "Price": "$6,390",
+    "rental_size": "1 BED",
+    "Bath_size": "2 BATHS",
+    "contact": "(929) 552-6190"
+  },
+  {
+    "rental_type": "Yorkside Towers I",
+    "address": "90-05 161st St, Jamaica, NY 11432",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 262-8007"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "300 E 30th St, New York, NY 10016",
+    "Price": "$2,995 - $6,995",
+    "rental_size": "STUDIO - 4 BEDS",
+    "Bath_size": "1 - 2 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "194-21 112th Rd, Queens, NY 11412",
+    "Price": "$2,300",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 541-8673"
+  },
+  {
+    "rental_type": "Yorkshire Towers",
+    "address": "305-315 E 86th St, New York, NY 10028",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 833-3300"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "200 E 82nd St, New York, NY 10028 Unit FL16-ID502",
+    "Price": "$6,900",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 552-4994"
+  },
+  {
+    "rental_type": "140 Van Siclen Ave, Brooklyn, NY 11207",
+    "address": "140 Van Siclen Ave, Brooklyn, NY 11207",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(516) 666-4818"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "160 E 95th St, New York, NY 10128",
+    "Price": "$3,900 - $5,500",
+    "rental_size": "1 - 2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "62-63-63 Ellwell Crescent, Queens, NY 11374 Unit 1st Floor",
+    "Price": "$3,700",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(917) 257-2058"
+  },
+  {
+    "rental_type": "1214 Fifth Avenue",
+    "address": "1214 5th Ave, New York, NY 10029",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 345-5624"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "41 W 24th St, New York, NY 10010 Unit FL2-ID563",
+    "Price": "$6,620",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(844) 596-0932"
+  },
+  {
+    "rental_type": "295 Park Avenue South",
+    "address": "295 Park Ave S, New York, NY 10010",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 645-9099"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "337 E 41st St, New York, NY 10017 Unit 2a",
+    "Price": "$5,100",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(937) 813-6143"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1022 E 211th St, The Bronx, NY 10469 Unit 2",
+    "Price": "$3,150",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(914) 391-4179"
+  },
+  {
+    "rental_type": "Ruby Apartments",
+    "address": "243 W 28th St, New York, NY 10001",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 551-7829"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "60 W 66th St, New York, NY 10023 Unit FL27-ID372",
+    "Price": "$7,010",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(855) 528-2887"
+  },
+  {
+    "rental_type": "329 East 13th Street",
+    "address": "329-331 E 13th St, New York, NY 10003",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 645-8811"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "516 9th Ave, New York, NY 10018 Unit 4",
+    "Price": "$6,350",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(551) 205-5376"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "132-55-132-41 41st Rd, Queens, NY 11355 Unit 2C",
+    "Price": "$3,600",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(917) 418-8233"
+  },
+  {
+    "rental_type": "Forty Six Fifty",
+    "address": "4650 Broadway, New York, NY 10040",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 433-4650"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "488 7th Ave, New York, NY 10018 Unit FL10-ID143",
+    "Price": "$3,980",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(877) 780-6758"
+  },
+  {
+    "rental_type": "FRANK 57 WEST",
+    "address": "600 W 58th St, New York, NY 10019",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 681-7834"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "322 1/2 E 50th St, New York, NY 10022",
+    "Price": "$3,000 - $4,150",
+    "rental_size": "STUDIO - 2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "132-55-132-41 41st Rd, Queens, NY 11355 Unit 4A",
+    "Price": "$2,743",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 418-8233"
+  },
+  {
+    "rental_type": "70 Pine Apartments",
+    "address": "70 Pine St, New York, NY 10270",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 776-4498"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "488 7th Ave, New York, NY 10018 Unit FL4-ID233",
+    "Price": "$3,660",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(833) 313-6904"
+  },
+  {
+    "rental_type": "165 Pinehurst Avenue",
+    "address": "165 Pinehurst Ave, New York, NY 10033",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 559-9001"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "117 W 87th St, New York, NY 10024",
+    "Price": "$2,850 - $5,400",
+    "rental_size": "STUDIO - 3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "132-55-132-41 41st Rd, Queens, NY 11355 Unit 3B",
+    "Price": "$2,743",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 418-8233"
+  },
+  {
+    "rental_type": "The Landon",
+    "address": "520 W 43rd St, New York, NY 10036",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 970-7866"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "252 E 61st St, New York, NY 10065 Unit FL5-ID639",
+    "Price": "$4,830",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(646) 729-2325"
+  },
+  {
+    "rental_type": "618 Academy Street",
+    "address": "618-620 Academy St, New York, NY 10034",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(757) 967-7489"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "218 E 13th St, New York, NY 10003",
+    "Price": "$3,695 - $6,550",
+    "rental_size": "STUDIO - 3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 875-2621"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "157-16 134th Ave, Queens, NY 11434 Unit 1 & 2",
+    "Price": "$3,700",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(718) 925-9600"
+  },
+  {
+    "rental_type": "London Terrace Gardens",
+    "address": "425-445 W 23rd St, New York, NY 10011",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 776-4496"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "252 E 61st St, New York, NY 10065 Unit FL6-ID640",
+    "Price": "$5,180",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(855) 705-5998"
+  },
+  {
+    "rental_type": "105 Pinehurst Avenue",
+    "address": "105 Pinehurst Ave, New York, NY 10033",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 559-9001"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "156 E 83rd St, New York, NY 10028",
+    "Price": "$2,870 - $3,990",
+    "rental_size": "STUDIO - 1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(888) 930-2794"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "107 Beadel St, Brooklyn, NY 11222 Unit 2nd Floor",
+    "Price": "$3,250",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(646) 251-9896"
+  },
+  {
+    "rental_type": "The Metropolis",
+    "address": "150 E 44th St, New York, NY 10017",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 396-3577"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "220 E 63rd St, New York, NY 10065 Unit FL9-ID567",
+    "Price": "$6,000",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 809-9425"
+  },
+  {
+    "rental_type": "700 West 175th Street",
+    "address": "700 W 175th St, New York, NY 10033",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 645-8811"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "218 E 32nd St, New York, NY 10016",
+    "Price": "$2,995 - $6,700",
+    "rental_size": "STUDIO - 3 BEDS",
+    "Bath_size": "1 - 1.5 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "107 Beadel St, Brooklyn, NY 11222 Unit 1st Floor",
+    "Price": "$3,250",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(646) 251-9896"
+  },
+  {
+    "rental_type": "The Colorado",
+    "address": "201 E 86th St, New York, NY 10028",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 587-8175"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "212 W 91st St, New York, NY 10024 Unit FL4-ID602",
+    "Price": "$7,440",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(201) 552-3144"
+  },
+  {
+    "rental_type": "304 East 90th Street",
+    "address": "304 E 90th St, New York, NY 10128",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 645-8811"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "350 E 81st St, New York, NY 10028",
+    "Price": "$2,900 - $4,500",
+    "rental_size": "STUDIO - 2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(646) 455-3441"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "31-18 106th St, Queens, NY 11369",
+    "Price": "$3,900",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1.5 BATHS",
+    "contact": "(347) 945-9108"
+  },
+  {
+    "rental_type": "Chelsea Landmark",
+    "address": "55 W 25th St, New York, NY 10010",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 453-4401"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "41 W 24th St, New York, NY 10010 Unit FL5-ID617",
+    "Price": "$7,060",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(833) 772-4841"
+  },
+  {
+    "rental_type": "417 East 65 Street",
+    "address": "417 E 65th St, New York, NY 10065",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 645-8811"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "141 E 37th St, New York, NY 10016",
+    "Price": "$3,000 - $4,195",
+    "rental_size": "STUDIO - 2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "191-04 39th Ave, Queens, NY 11358",
+    "Price": "$2,600",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(516) 888-8988"
+  },
+  {
+    "rental_type": "The Laney",
+    "address": "360 Amsterdam Ave, New York, NY 10024",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(917) 664-0025"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "248 Elizabeth St, New York, NY 10012 Unit FL2-ID620",
+    "Price": "$7,310",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(844) 611-0425"
+  },
+  {
+    "rental_type": "339 East 88th Street",
+    "address": "339 E 88th St, New York, NY 10128",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 570-2400"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "245 E 48th St, New York, NY 10017 Unit 2A",
+    "Price": "$4,095",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(855) 608-9257"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "41-26 27th St, Queens, NY 11101 Unit 3G",
+    "Price": "$3,450",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(347) 237-2955"
+  },
+  {
+    "rental_type": "The Centra",
+    "address": "228-238 E 44th St, New York, NY 10017",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(347) 862-9351"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "225 E 95th St, New York, NY 10128 Unit FL30-ID622",
+    "Price": "$5,160",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 809-3275"
+  },
+  {
+    "rental_type": "611 W 177th Street",
+    "address": "611-615 W 177th St, New York, NY 10033",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "308 E 84th St, New York, NY 10028",
+    "Price": "$3,000 - $4,700",
+    "rental_size": "STUDIO - 2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(410) 453-1855"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "68-51 Fresh Pond Rd, Queens, NY 11385 Unit 2B",
+    "Price": "$3,675",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 575-4422"
+  },
+  {
+    "rental_type": "The Westminster",
+    "address": "180 W 20th St, New York, NY 10011",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(973) 604-5062"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "252 E 61st St, New York, NY 10065 Unit FL4-ID637",
+    "Price": "$5,010",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(551) 300-3869"
+  },
+  {
+    "rental_type": "St Nicholas Park Apartments",
+    "address": "306 W 128th St, New York, NY 10027",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 662-0170"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "218 E 50th St, New York, NY 10022",
+    "Price": "$2,995 - $4,450",
+    "rental_size": "STUDIO - 2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "5401 Snyder Ave, Brooklyn, NY 11203",
+    "Price": "$3,800",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 282-6400"
+  },
+  {
+    "rental_type": "The Chrystie",
+    "address": "229 Chrystie St, New York, NY 10002",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(332) 286-3421"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "146 Mulberry St, New York, NY 10013 Unit FL2-ID600",
+    "Price": "$5,350",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(855) 526-4279"
+  },
+  {
+    "rental_type": "1619 York Avenue",
+    "address": "1619 York Ave, New York, NY 10028",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 645-8811"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "126 E 35th St, New York, NY 10016",
+    "Price": "$3,050 - $4,150",
+    "rental_size": "STUDIO - 2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 809-3562"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "66 Lee Ave, Yonkers, NY 10705 Unit First Floor",
+    "Price": "$2,800",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(914) 413-7631"
+  },
+  {
+    "rental_type": "The Paris",
+    "address": "752 West End Ave, New York, NY 10025",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 843-3784"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "215 E 96th St, New York, NY 10128 Unit FL21-ID688",
+    "Price": "$5,460",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(833) 511-2523"
+  },
+  {
+    "rental_type": "414 East 73rd Street",
+    "address": "414 E 73rd St, New York, NY 10021",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 645-8811"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "141 W 78th St, New York, NY 10024",
+    "Price": "$3,300 - $4,400",
+    "rental_size": "STUDIO - 1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(475) 241-0504"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "294 Chauncey St, Brooklyn, NY 11233 Unit 2",
+    "Price": "$3,000",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1.5 BATHS",
+    "contact": "(347) 251-1652"
+  },
+  {
+    "rental_type": "The Regent",
+    "address": "45 W 60th St, New York, NY 10023",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 430-5900"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "606 1st Ave., New York, NY 10016 Unit FL6-ID695",
+    "Price": "$4,910",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 351-9968"
+  },
+  {
+    "rental_type": "3135 Broadway",
+    "address": "3135 Broadway, New York, NY 10027",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(917) 709-1491"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "121 E 39th St, New York, NY 10016",
+    "Price": "$3,250 - $4,495",
+    "rental_size": "STUDIO - 2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "237-18 92nd Rd, Queens, NY 11426 Unit 2",
+    "Price": "$2,500",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(347) 323-2443"
+  },
+  {
+    "rental_type": "Independence Plaza",
+    "address": "40 Harrison St, New York, NY 10013",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 565-3098"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "110 W 79th St, New York, NY 10024 Unit FL2-ID276",
+    "Price": "$6,480",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(833) 475-1986"
+  },
+  {
+    "rental_type": "44 Bennett Avenue",
+    "address": "44 Bennett Ave, New York, NY 10033",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 559-9001"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "247 E 35th St, New York, NY 10016",
+    "Price": "$3,500 - $4,500",
+    "rental_size": "STUDIO - 2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(845) 999-0978"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "5-06 Beach 69th St, Queens, NY 11692",
+    "Price": "$3,100",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(347) 323-2443"
+  },
+  {
+    "rental_type": "The Lucerne",
+    "address": "350 E 79th St, New York, NY 10075",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 535-0500"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1600 Broadway, New York, NY 10019 Unit FL14-ID697",
+    "Price": "$6,130",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(866) 517-6954"
+  },
+  {
+    "rental_type": "130 Fort Washington Avenue",
+    "address": "130-138 Fort Washington Ave, New York, NY 10032",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 645-8811"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "449 W 50th St, New York, NY 10019",
+    "Price": "$3,150 - $3,850",
+    "rental_size": "STUDIO - 2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "72-41 Hillmeyer Ave, Queens, NY 11692 Unit 2",
+    "Price": "$3,000",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(347) 323-2443"
+  },
+  {
+    "rental_type": "The Bristol",
+    "address": "305 E 55th St, New York, NY 10022",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 535-0500"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "180 Riverside Blvd, New York, NY 10069 Unit FL7-ID844",
+    "Price": "$8,730",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(201) 885-7674"
+  },
+  {
+    "rental_type": "203 E 74 Street",
+    "address": "203-205 E 74th St, New York, NY 10021",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 906-2806"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "250 W 12th St, New York, NY 10014",
+    "Price": "$4,000 - $6,600",
+    "rental_size": "STUDIO - 2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(551) 277-4659"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "206 Cherry Ln, Floral Park, NY 11001 Unit 2nd Fl",
+    "Price": "$3,000",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 365-1410"
+  },
+  {
+    "rental_type": "Waterline Square",
+    "address": "400 W 61st St, New York, NY 10023",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(332) 378-5463"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "279 E 44th St, New York, NY 10017 Unit FL21-ID814",
+    "Price": "$8,060",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(855) 592-6018"
+  },
+  {
+    "rental_type": "221 Sherman Avenue",
+    "address": "221 Sherman Ave, New York, NY 10034",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 645-8811"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "120 E 17th St, New York, NY 10003",
+    "Price": "$4,500 - $5,450",
+    "rental_size": "STUDIO - 1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "5401 Snyder Ave, Brooklyn, NY 11203 Unit 1",
+    "Price": "$3,800",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 282-6400"
+  },
+  {
+    "rental_type": "The Maverick",
+    "address": "225 W 28th St, New York, NY 10001",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 974-8590"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "180 Riverside Blvd, New York, NY 10069 Unit FL11-ID843",
+    "Price": "$4,450",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(833) 509-1982"
+  },
+  {
+    "rental_type": "248 West 105th Street",
+    "address": "2735 Broadway, New York, NY 10025",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 559-9001"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "32 W 87th St, New York, NY 10024",
+    "Price": "$7,100 - $10,300",
+    "rental_size": "2 - 4 BEDS",
+    "Bath_size": "1 - 3.5 BATHS",
+    "contact": "(201) 605-6273"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "373 Gates Ave, Brooklyn, NY 11216",
+    "Price": "$2,900",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(516) 216-4722"
+  },
+  {
+    "rental_type": "MiMA",
+    "address": "450 W 42nd St, New York, NY 10036",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(551) 345-5682"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "606 1st Ave., New York, NY 10016 Unit FL8-ID696",
+    "Price": "$4,620",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 430-2811"
+  },
+  {
+    "rental_type": "404 East 63rd Street",
+    "address": "404 E 63rd St, New York, NY 10065",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 879-0650"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "350 W 46th St, New York, NY 10036",
+    "Price": "$3,500 - $4,400",
+    "rental_size": "STUDIO - 2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(845) 999-0536"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "64-12 48th Ave, Queens, NY 11377 Unit 2FL",
+    "Price": "$2,800",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 607-0472"
+  },
+  {
+    "rental_type": "The Aldyn",
+    "address": "60 Riverside Blvd, New York, NY 10069",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(332) 334-8175"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1600 Broadway, New York, NY 10019 Unit FL14-ID697",
+    "Price": "$6,130",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(866) 517-6954"
+  },
+  {
+    "rental_type": "Gotham West",
+    "address": "600 11th Ave, New York, NY 10036",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 247-0291"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "142 E 30th St, New York, NY 10016 Unit 2A",
+    "Price": "$4,495",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(844) 821-2282"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "103-05 101st Ave, Queens, NY 11416 Unit 2ND FLOOR",
+    "Price": "$1,800",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 848-4700"
+  },
+  {
+    "rental_type": "The Suffolk",
+    "address": "55 Suffolk St, New York, NY 10002",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 374-2293"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "952 5th Ave, New York, NY 10075 Unit FL8-ID871",
+    "Price": "$9,800",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 875-3901"
+  },
+  {
+    "rental_type": "118 East 92nd Street",
+    "address": "118 E 92nd St, New York, NY 10128",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 645-8811"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "20 John St, New York, NY 10038",
+    "Price": "$3,200 - $6,600",
+    "rental_size": "STUDIO - 3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "79-23 149th St, Queens, NY 11367 Unit 1FL",
+    "Price": "$1,950",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(646) 896-9918"
+  },
+  {
+    "rental_type": "The Archive",
+    "address": "666 Greenwich St, New York, NY 10014",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 691-9800"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "145 W 58th St, New York, NY 10019 Unit FL5-ID848",
+    "Price": "$5,530",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(855) 528-8550"
+  },
+  {
+    "rental_type": "226 e 13 Street",
+    "address": "226 E 13th St, New York, NY 10003",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 645-8811"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "135 John St, New York, NY 10038",
+    "Price": "$3,600 - $7,200",
+    "rental_size": "STUDIO - 2 BEDS",
+    "Bath_size": "1 - 2 BATHS",
+    "contact": "(551) 888-5598"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "68-28 Alderton St, Queens, NY 11374 Unit 1",
+    "Price": "$2,200",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 310-0554"
+  },
+  {
+    "rental_type": "15 Cliff",
+    "address": "15 Cliff St, New York, NY 10038",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(855) 605-6038"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "214 E 25th St, New York, NY 10010 Unit FL2-ID829",
+    "Price": "$4,260",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(833) 715-1131"
+  },
+  {
+    "rental_type": "1492 First Avenue",
+    "address": "1492 1st Ave, New York, NY 10075",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 645-8811"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "321 E 51st St, New York, NY 10022",
+    "Price": "$2,750 - $3,300",
+    "rental_size": "STUDIO - 1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "3189 Hatting Pl, The Bronx, NY 10465",
+    "Price": "$3,300",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 575-2178"
+  },
+  {
+    "rental_type": "111 Worth",
+    "address": "111 Worth St, New York, NY 10013",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 766-1300"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1501 Lexington Ave, New York, NY 10029 Unit FL5-ID920",
+    "Price": "$4,120",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(551) 257-0861"
+  },
+  {
+    "rental_type": "314 East 62nd Street",
+    "address": "314 E 62nd St, New York, NY 10065",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 645-8811"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "323 E 50th St, New York, NY 10022 Unit 1R",
+    "Price": "$2,750",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "101-44 98th St, Queens, NY 11416",
+    "Price": "$3,650",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(646) 705-4166"
+  },
+  {
+    "rental_type": "1-29 Bogardus Place",
+    "address": "1 Bogardus Pl, New York, NY 10040",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 721-5500"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "279 E 44th St, New York, NY 10017 Unit FL14-ID906",
+    "Price": "$4,870",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(844) 991-1975"
+  },
+  {
+    "rental_type": "1566 Second Avenue",
+    "address": "1566 Second Ave, New York, NY 10028",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 570-2400"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "328 E 30th St, New York, NY 10016 Unit 1",
+    "Price": "$4,600",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "33-21 112th St, Queens, NY 11368 Unit 2nd Fl",
+    "Price": "$2,500",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 404-6483"
+  },
+  {
+    "rental_type": "AVA High Line",
+    "address": "525 W 28th St, New York, NY 10001",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 762-7617"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "146 Mulberry St, New York, NY 10013 Unit FL3-ID727",
+    "Price": "$4,680",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(646) 837-5397"
+  },
+  {
+    "rental_type": "1441 York Avenue",
+    "address": "1441 York Ave, New York, NY 10075",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 645-8811"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "318 E 53rd St, New York, NY 10022 Unit 1b",
+    "Price": "$4,300",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "568 President St, Brooklyn, NY 11215 Unit 3L",
+    "Price": "$2,893",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 971-8197"
+  },
+  {
+    "rental_type": "Mercedes House",
+    "address": "555 W 53rd St, New York, NY 10019",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 386-2327"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "400 Chambers St, New York, NY 10282 Unit FL22-ID300",
+    "Price": "$7,820",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(844) 619-0554"
+  },
+  {
+    "rental_type": "112 Haven Avenue",
+    "address": "112-118 Haven Ave, New York, NY 10032",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(917) 709-1491"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "340 E 50th St, New York, NY 10022",
+    "Price": "$3,000",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "110-11 101st Ave, Queens, NY 11419",
+    "Price": "$3,450",
+    "rental_size": "4 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(516) 450-0212"
+  },
+  {
+    "rental_type": "20 Exchange",
+    "address": "20 Exchange Pl, New York, NY 10005",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 687-2843"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "944 Columbus Ave, New York, NY 10025 Unit A",
+    "Price": "$3,110",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 720-6718"
+  },
+  {
+    "rental_type": "103 Fifth Avenue",
+    "address": "103 5th Ave, New York, NY 10003",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 879-0650"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "349 Grand St, New York, NY 10002",
+    "Price": "$4,995 - $8,995",
+    "rental_size": "STUDIO - 2 BEDS",
+    "Bath_size": "1 - 2 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "60-63 54th St, Queens, NY 11378",
+    "Price": "$3,000",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(516) 450-0212"
+  },
+  {
+    "rental_type": "30 Lincoln Plaza",
+    "address": "30 W 63rd St, New York, NY 10023",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 956-4049"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "41 W 46th St, New York, NY 10036 Unit 5A",
+    "Price": "$3,275",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(551) 257-2547"
+  },
+  {
+    "rental_type": "226 East 25th Street",
+    "address": "226 E 25th St, New York, NY 10010",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 879-0650"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "219 E 11th St, New York, NY 10003",
+    "Price": "$5,000 - $6,600",
+    "rental_size": "2 - 3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "70-15 66th St, Queens, NY 11385",
+    "Price": "$2,750",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 780-6142"
+  },
+  {
+    "rental_type": "121 Madison Avenue",
+    "address": "119-125 Madison Ave, New York, NY 10016",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 879-0650"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "53 Leroy St, New York, NY 10014 Unit FL2-ID806",
+    "Price": "$5,120",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(833) 863-2454"
+  },
+  {
+    "rental_type": "126 East 27th Street",
+    "address": "126 E 27th St, New York, NY 10016",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 879-0650"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "98 Harman St, Brooklyn, NY 11221 Unit 1",
+    "Price": "$2,699",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 547-3807"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "77-40 74th St, Queens, NY 11385",
+    "Price": "$3,500",
+    "rental_size": "4 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(917) 780-6142"
+  },
+  {
+    "rental_type": "The Ashley",
+    "address": "400 W 63rd St, New York, NY 10069",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(332) 334-8149"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "160 Riverside Blvd, New York, NY 10069 Unit FL10-ID832",
+    "Price": "$4,450",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(855) 528-3625"
+  },
+  {
+    "rental_type": "1160 Fifth Avenue",
+    "address": "1160 Fifth Ave, New York, NY 10029",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 262-1675"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "9611 Church Ave, Brooklyn, NY 11212",
+    "Price": "Call for Price",
+    "rental_size": "STUDIO",
+    "Bath_size": "N/A",
+    "contact": "(862) 354-8675"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "640 S 6th Ave, Mount Vernon, NY 10550",
+    "Price": "$3,000",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(646) 314-1129"
+  },
+  {
+    "rental_type": "Avalon Bowery Place",
+    "address": "11 E 1st St, New York, NY 10003",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 969-3162"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "311 W 50th St, New York, NY 10019 Unit FL2-ID810",
+    "Price": "$5,620",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 552-4202"
+  },
+  {
+    "rental_type": "17 Vermilyea Avenue",
+    "address": "17-19 Vermilyea Ave, New York, NY 10034",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 559-9001"
+  },
+  {
+    "rental_type": "Room for Rent",
+    "address": "122 India St, Brooklyn, NY 11222 Unit 4 A",
+    "Price": "$1,600",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 717-5762"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "144-05 21st Ave, Queens, NY 11357",
+    "Price": "$3,500",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1.5 BATHS",
+    "contact": "(917) 780-6142"
+  },
+  {
+    "rental_type": "The Epic",
+    "address": "126-128 W 32nd St, New York, NY 10001",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 554-2700"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "50 W 77th St, New York, NY 10024 Unit FL7-ID821",
+    "Price": "$6,180",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(888) 316-6278"
+  },
+  {
+    "rental_type": "48 W 68th Street",
+    "address": "46-52 W 68th St, New York, NY 10023",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 906-2806"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "676 E 5th St, Brooklyn, NY 11218 Unit 1",
+    "Price": "$3,599",
+    "rental_size": "4 BEDS",
+    "Bath_size": "1.5 BATHS",
+    "contact": "(347) 580-5336"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "568 President St, Brooklyn, NY 11215",
+    "Price": "$2,893",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 269-4598"
+  },
+  {
+    "rental_type": "OHM",
+    "address": "312 Eleventh Ave, New York, NY 10001",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(332) 262-4402"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "241 W 75th St, New York, NY 10023 Unit FL4-ID773",
+    "Price": "$8,120",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(833) 987-5567"
+  },
+  {
+    "rental_type": "45 Tiemann Place",
+    "address": "41-45 Tiemann Pl, New York, NY 10027",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(917) 993-3453"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "5438 Arnold Ave, Maspeth, NY 11378 Unit 2R",
+    "Price": "$3,049",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(347) 970-2822"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "102-18-102-64 64th Ave, Queens, NY 11375 Unit 2X",
+    "Price": "$2,500",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 263-4700"
+  },
+  {
+    "rental_type": "8 Spruce",
+    "address": "8 Spruce St, New York, NY 10038",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(833) 700-5945"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "311 W 50th St, New York, NY 10019 Unit FL2-ID810",
+    "Price": "$5,620",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(201) 552-4202"
+  },
+  {
+    "rental_type": "347 East 85th Street",
+    "address": "343-349 E 85th St, New York, NY 10028",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 570-2400"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "575 Classon Ave, Brooklyn, NY 11238 Unit 2",
+    "Price": "$2,200",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "88-29 Pontiac St, Queens, NY 11427",
+    "Price": "$1,950",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(347) 365-0081"
+  },
+  {
+    "rental_type": "The Balton Apartments",
+    "address": "340 St. Nicholas Ave, New York, NY 10027",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 864-6511"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "50 W 77th St, New York, NY 10024 Unit FL7-ID821",
+    "Price": "$6,180",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(888) 316-6278"
+  },
+  {
+    "rental_type": "316 East 92nd Street",
+    "address": "316 E 92nd St, New York, NY 10128",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 570-2400"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "400 Eldert Lane, Brooklyn, NY 11208 Unit One Bedroom",
+    "Price": "$2,500",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "147-14 Hillside Ave., Queens, NY 11435",
+    "Price": "$3,500",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 790-1385"
+  },
+  {
+    "rental_type": "Riverbank",
+    "address": "550-570 Eleventh Ave, New York, NY 10009",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(833) 671-9041"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "180 Riverside Blvd, New York, NY 10069 Unit FL7-ID844",
+    "Price": "$8,730",
+    "rental_size": "2 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(201) 885-7674"
+  },
+  {
+    "rental_type": "162 East 90th Street",
+    "address": "162 E 90th St, New York, NY 10128",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 570-2400"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "142 Jefferson Ave, Brooklyn, NY 11216 Unit 2",
+    "Price": "$2,000",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(929) 552-0563"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "169-19 69th Ave, Queens, NY 11365",
+    "Price": "$3,100",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 307-9280"
+  },
+  {
+    "rental_type": "The Ellington",
+    "address": "260 W 52nd St, New York, NY 10019",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 559-4722"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "279 E 44th St, New York, NY 10017 Unit FL21-ID814",
+    "Price": "$8,060",
+    "rental_size": "3 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "(855) 592-6018"
+  },
+  {
+    "rental_type": "49 West 70th Street",
+    "address": "49 W 70th St, New York, NY 10023",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 570-2400"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "148F Main St, Staten Island, NY 10307 Unit B",
+    "Price": "$2,500",
+    "rental_size": "STUDIO",
+    "Bath_size": "1 BATH",
+    "contact": "(848) 242-8077"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "41-82-82 Gleane St, Queens, NY 11373 Unit 2Fl",
+    "Price": "$3,700",
+    "rental_size": "4 BEDS",
+    "Bath_size": "1.5 BATHS",
+    "contact": "(718) 353-8818"
+  },
+  {
+    "rental_type": "245 East 80th Street",
+    "address": "245 E 80th St, New York, NY 10075",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 721-5500"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "180 Riverside Blvd, New York, NY 10069 Unit FL11-ID843",
+    "Price": "$4,450",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(833) 509-1982"
+  },
+  {
+    "rental_type": "62 West 87th Street (j4)",
+    "address": "62 W 87TH St, New York, NY 10024",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 570-2400"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "238 Schaefer St, Brooklyn, NY 11207 Unit 3",
+    "Price": "$4,695",
+    "rental_size": "4 BEDS",
+    "Bath_size": "2 BATHS",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "218-11 94th Ave, Queens, NY 11428 Unit 1",
+    "Price": "$2,300",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(718) 475-2700"
+  },
+  {
+    "rental_type": "Avalon Midtown West",
+    "address": "250 W 50th St, New York, NY 10019",
+    "Price": "N/A",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 969-3571"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "214 E 25th St, New York, NY 10010 Unit FL3-ID828",
+    "Price": "$4,350",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(855) 526-1099"
+  },
+  {
+    "rental_type": "91 Fort Washington Avenue",
+    "address": "91 Fort Washington Ave, New York, NY 10032",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 559-9001"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "291 Monroe St, Brooklyn, NY 11216 Unit 2",
+    "Price": "$3,299",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "36-03-36-28 28th Ave, Queens, NY 11103 Unit 2R",
+    "Price": "$3,488",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(646) 643-7300"
+  },
+  {
+    "rental_type": "The Windermere",
+    "address": "666 West End Ave, New York, NY 10025",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 595-1666"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "248 Mott St, New York, NY 10012 Unit FL4-ID805",
+    "Price": "$5,430",
+    "rental_size": "1 BED",
+    "Bath_size": "1 BATH",
+    "contact": "(855) 528-7413"
+  },
+  {
+    "rental_type": "1485 First Avenue",
+    "address": "1485 First Ave, New York, NY 10075",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 645-8811"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "39 Vernon Ave, Brooklyn, NY 11206 Unit #-2",
+    "Price": "$3,100",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "136-18 Maple Ave, Queens, NY 11355 Unit 19G",
+    "Price": "$3,650",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(212) 812-1788"
+  },
+  {
+    "rental_type": "Courtney House",
+    "address": "53-61 W 14th St, New York, NY 10011",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(212) 722-9242"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "241 W 75th St, New York, NY 10023 Unit FL4-ID773",
+    "Price": "$8,120",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(833) 987-5567"
+  },
+  {
+    "rental_type": "600 West 196th Street",
+    "address": "600-606 W 196th St, New York, NY 10040",
+    "Price": "Call for Price",
+    "rental_size": "N/A",
+    "Bath_size": "N/A",
+    "contact": "(646) 559-9001"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "1352 Herkimer St, Brooklyn, NY 11233 Unit #1",
+    "Price": "$2,999",
+    "rental_size": "2 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "N/A"
+  },
+  {
+    "rental_type": "Apartment for Rent",
+    "address": "905 E 178th St, The Bronx, NY 10460",
+    "Price": "$3,975",
+    "rental_size": "3 BEDS",
+    "Bath_size": "1 BATH",
+    "contact": "(347) 846-8097"
+  }
+]
